@@ -1,9 +1,4 @@
-/* Million Araya
- Jan. 25, 2016
- SpaceNeedle.java
 
- This program draws the Seattle's SpaceNeedle in different sizes as chosen by the user.  
- */
 
 //Class name
 public class SpaceNeedle1 {
